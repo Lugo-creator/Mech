@@ -54,7 +54,7 @@ public class AddMechanicActivity extends AppCompatActivity {
         // Create a HashMap to store mechanic details
         Map<String, Object> mechanic = new HashMap<>();
         mechanic.put("name", name);
-        mechanic.put("email", email);g
+        mechanic.put("email", email);
         mechanic.put("phone", phone);
         mechanic.put("station", station);
         mechanic.put("specialization", specialization);
