@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652091545761",
+    "project_id": "mobile-car-care-84964",
+    "storage_bucket": "mobile-car-care-84964.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652091545761:android:65407b2d82b1ccf64eb8e0",
+        "android_client_info": {
+          "package_name": "com.example.mobilecarcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY5sddIJrHi0iZ5kATaM9fS31GWOoR-0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
